@@ -1,0 +1,36 @@
+header {
+    background-color: rgb(124, 83, 212); 
+    padding: 20px; 
+  }
+  
+  .home {
+    position: fixed;
+    top: 2%;
+    background-color: #efe7e7;
+    float: left;
+  }
+  
+  .main-content {
+    clear: both;
+  }
+  
+  .sidebar {
+    float: left;
+    background-color: green;
+    height: 200px;
+    width: 500px; 
+  }
+  
+  .main {
+    float: right;
+    width: 500px; 
+  
+  }
+  
+  footer {
+    clear: both;
+   
+    background-color: #140758; 
+    padding: 20px; 
+  }
+  
